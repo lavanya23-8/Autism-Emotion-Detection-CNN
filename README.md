@@ -30,7 +30,7 @@ Prediction: joy
 
 ## Dataset
 The dataset used to train the model is not included in this repository because it contains many files.
-You can use any facial emotion dataset for training.
+You can use any facial emotion dataset for training..
 
 ## Author
 Lavanya B Y
