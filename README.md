@@ -17,7 +17,8 @@ predict.py          -> Predict emotion from an image
 emotion_webcam.py   -> Real-time emotion detection using webcam
 emotion_model.h5    -> Trained model
 test.jpg            -> Sample test image
-How to Run
+
+How to Run.
 
 ## Install required libraries:
 pip install tensorflow opencv-python numpy
