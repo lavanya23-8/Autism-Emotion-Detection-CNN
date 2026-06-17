@@ -1,5 +1,5 @@
 ## Autism Emotion Detection using CNN
-## Project Description
+## Project Description.
 This project detects facial emotions using a Convolutional Neural Network (CNN).
 The model takes a face image as input and predicts the emotion such as joy, fear, sadness, surprise, anger, or neutral.
 
