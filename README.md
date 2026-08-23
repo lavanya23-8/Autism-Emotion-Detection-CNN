@@ -3,7 +3,7 @@
 This project detects facial emotions using a Convolutional Neural Network (CNN).
 The model takes a face image as input and predicts the emotion such as joy, fear, sadness, surprise, anger, or neutral.
 
-The project is implemented using Python, TensorFlow, and OpenCV.
+The project is implemented using Python, TensorFlow, and OpenCV
 
 ## Technologies Used
 Python
