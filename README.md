@@ -34,5 +34,5 @@ The dataset used to train the model is not included in this repository because i
 You can use any facial emotion dataset for training
 
 ## Author
-Lavanya B Y
+Lavanya B Y.
 GitHub: https://github.com/lavanya23-8
