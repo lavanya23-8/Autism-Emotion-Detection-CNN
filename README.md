@@ -13,7 +13,7 @@ NumPy
 
 ## Project Files
 train_model.py      -> Train the CNN model
-predict.py          -> Predict emotion from an image
+predict.py         -> Predict emotion from an image
 emotion_webcam.py   -> Real-time emotion detection using webcam
 emotion_model.h5    -> Trained model
 test.jpg            -> Sample test image
