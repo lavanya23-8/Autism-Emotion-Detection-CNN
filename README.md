@@ -9,7 +9,7 @@ The project is implemented using Python, TensorFlow, and OpenCV.
 Python
 TensorFlow / Keras
 OpenCV
-NumPy
+Numpy
 
 ## Project Files
 train_model.py      -> Train the CNN model
