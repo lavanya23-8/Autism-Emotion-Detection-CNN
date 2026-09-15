@@ -27,7 +27,7 @@ pip install tensorflow opencv-python numpy
 python predict.py
 
 ## Example Output:
-Prediction: joy
+Prediction: joy 
 
 ## Dataset
 The dataset used to train the model is not included in this repository because it contains many files.
