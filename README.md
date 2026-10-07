@@ -7,7 +7,7 @@ The project is implemented using Python, TensorFlow, and OpenCV.
 
 ## Technologies Used
 Python
-TensorFlow / Keras
+TensorFlow / Keras 
 OpenCV
 Numpy
 
